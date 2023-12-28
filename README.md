@@ -1,3 +1,4 @@
+*ill fix this later*
 # ImgToMCFunction
 A Python script that will turn most images into a Minecraft data pack function that creates the image
 # How to use
