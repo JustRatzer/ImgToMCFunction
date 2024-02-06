@@ -1,6 +1,6 @@
 *ill fix this later*
 # ImgToMCFunction
-A Python script that will turn most images into a Minecraft data pack function that creates the image
+A Python script that will turn most images into a Minecraft data pack function that builds the image in-game
 # How to use
 run the program and enter the name and extension of the image file.
 after a while, it will create one or multiple .mcfunction files.
