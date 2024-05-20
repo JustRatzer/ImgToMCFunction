@@ -5,7 +5,7 @@ from PIL import Image
 BlockDataFile = open("data.json", 'r')
 BlockDataJson = json.load(BlockDataFile)
 
-#Gets all the colors from the data.json
+#Gets all the colours from the data.json
 colorList = []
 for i in BlockDataJson["blocks"]:
         colorList.append(i["rgb"])
@@ -30,7 +30,7 @@ imageName = input("What is the name and extension of the image file (for example
 im = Image.open(imageName, 'r')
 pixVal = list(im.getdata())
 
-#Random variables honestly i forget what there for
+#Random variables honestly I forget what they're for
 blockList = []
 newFunction = ""
 offset=0
